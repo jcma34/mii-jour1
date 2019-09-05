@@ -1,2 +1,3 @@
 # mii-jour1
-pour la formation, ceci est un exercice (remote)
+Je change un max
+Ceci est pour la formation, ceci est un exercice (local 3)
